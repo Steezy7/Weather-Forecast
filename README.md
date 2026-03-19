@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Weather Forecast Application
 
-TODO: Document your project here
+A modern weather forecast application built with React and TypeScript.
